@@ -20,7 +20,7 @@ title: Prevention of sexual harassment
 
 ## What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 
-Regardless of the type of harassment you are experiencing, it is important to document evrything.
+Regardless of the type of harassment you are experiencing, it is important to document everything.
 
 **Write down details such as:**
 
