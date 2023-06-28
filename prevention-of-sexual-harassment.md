@@ -1,7 +1,3 @@
----
-title: Prevention of sexual harassment
----
-
 
 ## What kinds of behaviour cause sexual harassment?
 
