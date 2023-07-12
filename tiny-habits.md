@@ -157,3 +157,9 @@ In "Atomic Habits" by James Clear, the book offers insights on how to make a bad
 By implementing these strategies, you can make a bad habit more difficult to engage in. By increasing friction, changing your environment, using implementation intentions, employing habit reversal, and making the consequences clear, you create barriers that discourage the undesired behavior and make it easier to break the habit loop.
 
 
+## References
+- [Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont](https://www.youtube.com/watch?v=AdKUJxjn-R8)
+- [TINY HABITS by BJ Fogg | Core Message](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
+- [1% Better Every Day - James Clear at ConvertKit Craft + Commerce 2017](https://www.youtube.com/watch?v=mNeXuCYiE0U)
+- [Tiny Changes, Remarkable Results - Atomic Habits by James Clear](https://www.youtube.com/watch?v=YT7tQzmGRLA)
+
